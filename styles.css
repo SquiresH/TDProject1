@@ -148,12 +148,6 @@ h3 {
   opacity: 10%;
 }
 
-footer {
-  width: 100%;
-  min-height: 30px;
-  padding: 20px 0 40px 20px;
-}
-
 footer .copyright {
   top: -8px;
   font-size: 0.75em;
